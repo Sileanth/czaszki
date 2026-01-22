@@ -8,10 +8,6 @@ A Lichess chess bot with a custom C engine. And python for handling communicatio
 
 Challenge the bot directly on Lichess: https://lichess.org/@/SileanthBOT
 
-### Without a Lichess Account
-
-Visit https://chess.sileanth.pl to get a challenge link. Click "Play as White" or "Play as Black" to start a game.
-
 ## Self-Hosting
 
 ### Requirements
