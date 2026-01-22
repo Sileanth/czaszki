@@ -1,8 +1,6 @@
 # Szaszki
 
-A Lichess chess bot with a custom C engine.
-
-Source code: https://github.com/Sileanth/szaszki
+A Lichess chess bot with a custom C engine. And python for handling communication with lichess.
 
 ## How to Play
 
