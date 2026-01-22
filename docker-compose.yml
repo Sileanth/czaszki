@@ -1,0 +1,8 @@
+services:
+  bot:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - LICHESS_TOKEN=${LICHESS_TOKEN}
+    restart: unless-stopped
